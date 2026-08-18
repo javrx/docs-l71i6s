@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-u9juiu.assetshst.online/sitemap.xml
